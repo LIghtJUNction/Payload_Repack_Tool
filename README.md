@@ -62,6 +62,12 @@ cd Payload_Repack_Tool
 ./repackZip.sh
 ```
 
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8f3a50549d773ee1cf0a341f5273f5a/component-ota/25/05/12/34cf28d983f24e0d9621d69ff04e60f6.zip
+
+链接1：https://gauss-compotacostauto-cn.allawnfs.com/remove-f8f3a50549d773ee1cf0a341f5273f5a/component-ota/25/05/12/34cf28d983f24e0d9621d69ff04e60f6.zip
+链接2：https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8f3a50549d773ee1cf0a341f5273f5a/component-ota/25/05/12/34cf28d983f24e0d9621d69ff04e60f6.zip
+更新日志：https://gauss-compotacostauto-cn.allawnfs.com/remove-f8f3a50549d773ee1cf0a341f5273f5a/component-ota/25/06/13/165e6472c9d941c7a1f9188eb8171542.html
+
 ## Demo
 【Android payload.bin 打包-哔哩哔哩】 
 
